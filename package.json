@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/onivim/oni-plugin-starter-kit#readme",
   "dependencies": {
+    "@types/node": "^10.0.4",
     "@types/react": "^16.3.13",
     "oni-api": "^0.0.42",
     "oni-types": "^0.0.4",
