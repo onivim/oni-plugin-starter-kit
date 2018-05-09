@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "oni": "^0.3.5"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/onivim/oni-plugin-starter-kit.git"
